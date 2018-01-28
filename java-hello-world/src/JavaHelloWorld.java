@@ -12,6 +12,7 @@ public class JavaHelloWorld {
 		  System.out.println("Commit and push Hello Java: 28/01/2018 16:05 Create a local development branch");
 		  
 		  System.out.println("Commit and push Hello Java: 28/01/2018 16:20 Create a local development branch");
+		  System.out.println("From local: Commit and push Hello Java: 28/01/2018 16:49 Create a local development branch");
 		  
 	
 	}

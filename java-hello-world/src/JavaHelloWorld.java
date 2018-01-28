@@ -8,6 +8,7 @@ public class JavaHelloWorld {
 		  
 		  System.out.println("Hello Java: 28/01/2018 15:34 Create a local development branch");
 		  System.out.println("Hello Java: 28/01/2018 15:57 Create a local development branch");
+		  System.out.println("Cimmit and push Hello Java: 28/01/2018 15:57 Create a local development branch");
 		  
 	
 	}
